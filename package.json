@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Juan-Kim-9312/juan_nodejs#readme",
   "dependencies": {
+    "mysql": "^2.18.1",
     "sanitize-html": "^2.5.1"
   }
 }
